@@ -11,7 +11,7 @@ GND -> GND
 */
 
 
-#define FSYNC 31
+#define FSYNC 31       // Pin 31 jako 'chipSelect'
 
 long freq;
 
